@@ -1,0 +1,18 @@
+structure notepad, to organize what is going on
+
+index.html - gets accessed by web browser
+            collects scripts
+
+
+gamemodes:
+every gamemode should have a script that runs once
+
+to do this, run the once-stuff in the setup function, and update-stuff in the gameloop.
+
+
+
+
+integrate socket.io in pixi
+find mouse position and click
+get keyboard input
+make game multiplayer

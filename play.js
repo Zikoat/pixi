@@ -1,4 +1,4 @@
-function playSetup () {
+function playSetup() {
     
     player.scale.set(8, 8);
     player.vx = 0;
@@ -86,7 +86,7 @@ function drawLines() {
     graphics.endFill();
     
     
-    graphics.drawRect(20,200,100,100);
+    graphics.drawRect(20, 200, 100, 100);
     // draw circle around player
     graphics.drawCircle(player.x, player.y, 40);
     
